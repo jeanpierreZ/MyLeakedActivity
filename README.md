@@ -1,0 +1,3 @@
+# MyLeakedActivity
+
+Test Leak Canary
